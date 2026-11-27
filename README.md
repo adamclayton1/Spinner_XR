@@ -23,7 +23,7 @@ The host's device runs the physics and the guest's device mirrors it, so the hos
 | Jump | Space | A | JUMP | A / X |
 | Dash (slam in mid-air) | Shift | B / X | DASH | B / Y |
 | Special moves 1 and 2 | 1 and 2 | LB / RB | Power buttons | Left and right triggers |
-| Camera (chase, first-person, overview) | C, and Q/E to turn | Y, right stick | CAM | Right stick turns and resizes the arena; grip re-centres it |
+| Camera | C cycles chase, first-person and overview; Q/E turn | Y, right stick | CAM | Click right stick: Arena view, 3rd person, 1st person. In Arena view the right stick turns and resizes the arena; grip re-centres |
 
 ## Features
 
