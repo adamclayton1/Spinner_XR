@@ -22,7 +22,7 @@ A spinning-top battle game for the browser and Meta Quest (VR and mixed reality)
 - Three tops (Ember, Bastion, Gale), each built from tip, track, metal wheel, clear wheel and face bolt, ready for a future customisation screen.
 - Three arenas: Crater, Skate Park and Sky City. Glass walls keep you in.
 - Damage depends on where the hit lands: Stomp, Uppercut, Blindside, Smash or Clash. Only hits drain spin.
-- Eight special moves: Inferno, Iron Wall, Vine Snare, Thunder Strike, Phantom, Meteor Slam, Frost Nova and Second Wind.
+- Nine special moves: Overdrive, Inferno, Iron Wall, Vine Snare, Thunder Strike, Phantom, Meteor Slam, Frost Nova and Second Wind.
 - Optional power-up drops, an embedded announcer voice, crowd audio, a stadium with crowd, a minimap and a first-person camera.
 
 ## Hosting
