@@ -7,6 +7,14 @@ A spinning-top battle game for the browser and Meta Quest (VR and mixed reality)
 - **Browser / phone:** open the GitHub Pages site for this repo, choose your top, two special moves and an arena, then press **Play on screen**.
 - **Meta Quest:** open the same link in the Quest Browser, then choose **Play in VR** or **Play in mixed reality**. You need the controllers; hand tracking isn't supported.
 
+## Online multiplayer (2 players)
+
+1. One player opens the game and presses **Host online match**. A 4-character room code appears.
+2. The other player types the code and presses **Join**.
+3. Both pick a top and two moves, then press a **Ready** button (screen, VR or mixed reality, and each player can choose differently). The host's arena, spin time and power-up settings are used.
+
+The host's device runs the physics and the guest's device mirrors it, so the host gets zero lag and the guest a little. Devices connect directly peer-to-peer; the free PeerJS service is only used to find each other. A few strict networks (some mobile or office connections) block direct connections. If joining fails, try both on home Wi-Fi.
+
 ## Controls
 
 | Action | Keyboard | Gamepad | Touch | Quest |
